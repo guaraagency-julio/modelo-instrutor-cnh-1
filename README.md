@@ -6,3 +6,5 @@ Landing page responsiva com identidade própria, inspirada no encadeamento visua
 
 Os nomes, identidade profissional e cidade são **demonstrativos**. Não há depoimentos, taxas de aprovação, credenciais, histórico profissional ou preços inventados. As duas fotos são ilustrativas com licença CC0, obtidas de PxHere, e não retratam o profissional fictício.
 Consulte CONFIGURACAO.md antes de adaptar o projeto para um cliente.
+
+Fotografias ilustrativas: Gustavo Fring / Pexels, fotos 6817037 e 6817010.
